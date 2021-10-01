@@ -2,3 +2,7 @@ h1{
     color:white;
     background-color:black;
 }
+a{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+ul {background-color: lightgray;}
